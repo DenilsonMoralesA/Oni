@@ -13,7 +13,7 @@ print(now)
 print("El día actual es {}".format(hoy.day))
 print("El mes actual es {}".format(hoy.month))
 print("El año actual es {}".format(hoy.year))
-
+print("Los minutos acutales son {}".format(now.minute))
 print("La hora actual es {}".format(now.hour))
 print("El segundo actual es {}".format(now.second))
 
